@@ -1,0 +1,15 @@
+
+R
+java:S1141<"5Extract this nested try block into a separate method.(á’°Ù8’ÃÕù0
+E
+java:S1604+"(Make this anonymous inner class a lambda(®Şñç8’ÃÕù0
+Q
+java:S36550"5Call "result.isPresent()" before accessing the value.(¼ı¦78‘’ÃÕù0
+£
+java:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â¬»Ãüÿÿÿÿ8¿»ÆÕù0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ïã‚¤8“’ÃÕù0
+X	java:S125$"<This block of commented-out lines of code should be removed.(‹İôà8™’ÃÕù0
+]	java:S1251"<This block of commented-out lines of code should be removed.(Š‘Ÿûÿÿÿÿ8›’ÃÕù0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ü‰şÿÿÿÿ8œ’ÃÕù0
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ü³œ¼8œ’ÃÕù0
